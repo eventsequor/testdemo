@@ -1,0 +1,7 @@
+com\test\avianca\test\tata\questions\NumberAvailableFligths.class
+com\test\avianca\test\tata\exceptions\NotFindFlightsException.class
+com\test\avianca\test\tata\interactions\SetTextAndSelectOption.class
+com\test\avianca\test\tata\userinterfaces\HomeAvianca.class
+com\test\avianca\test\tata\models\TripInformation.class
+com\test\avianca\test\tata\task\ChooseTravel.class
+com\test\avianca\test\tata\userinterfaces\ChooseFlights.class
